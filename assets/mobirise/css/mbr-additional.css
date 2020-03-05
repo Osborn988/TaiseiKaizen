@@ -1122,7 +1122,7 @@ section.lazy-placeholder:after {
 .cid-rv3e4uplXC {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f6f6f6;
+  background-color: #3b486c;
 }
 .cid-rv3e4uplXC .card-box {
   padding: 0rem;
@@ -1153,6 +1153,9 @@ section.lazy-placeholder:after {
   .cid-rv3e4uplXC .card-wrapper {
     padding: 4rem;
   }
+}
+.cid-rv3e4uplXC .card-title {
+  color: #ffffff;
 }
 .cid-rv3e5i16S6 {
   padding-top: 0px;
@@ -1186,10 +1189,13 @@ section.lazy-placeholder:after {
     padding: 4rem;
   }
 }
+.cid-rv3e5i16S6 .card-title {
+  color: #3b486c;
+}
 .cid-rv3e6AFyjP {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #fff3f3;
+  background-color: #3b486c;
 }
 .cid-rv3e6AFyjP .card-box {
   padding: 0rem;
@@ -1226,6 +1232,9 @@ section.lazy-placeholder:after {
   .cid-rv3e6AFyjP .card-wrapper {
     padding: 4rem;
   }
+}
+.cid-rv3e6AFyjP .card-title {
+  color: #ffffff;
 }
 .cid-rv3ebP4hXy {
   padding-top: 90px;
